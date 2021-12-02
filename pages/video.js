@@ -15,7 +15,7 @@ export default function Home() {
 			</Head>
 
 
-		<header className="bg-blue-600">
+			<header className="bg-blue-600">
 		  <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 			  <div className="w-full py-6 flex items-center justify-between border-b border-blue-500 lg:border-none">
 				  <span className="sr-only">Severe Storms Media</span>
